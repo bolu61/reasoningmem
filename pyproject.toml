@@ -1,0 +1,7 @@
+[project]
+name = "reasoningmem"
+version = "0.1.0"
+description = "Agent reasoning memory database for high-quality and observable logic."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
